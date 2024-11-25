@@ -15,7 +15,7 @@ resources:
 images:
 - name: LOGOUTPUT_IMAGE
   newName: juhosii/devops-kubernetes
-  newTag: c5e5c6282ab36968cf1ea8746e5774534a15932f
+  newTag: ce8d053b4196db0bff57d174975263f72a9c2796
 - name: PINGPONG_IMAGE
   newName: juhosii/devops-kubernetes
-  newTag: c5e5c6282ab36968cf1ea8746e5774534a15932f-PINGPONG
+  newTag: ce8d053b4196db0bff57d174975263f72a9c2796-PINGPONG
