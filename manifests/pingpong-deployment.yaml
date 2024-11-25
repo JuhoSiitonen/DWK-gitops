@@ -50,7 +50,3 @@ spec:
             value: "pingpongdb"
         ports:
         - containerPort: 3002
-        resources:
-          limits:
-            memory: "128Mi"
-            cpu: "250m"
